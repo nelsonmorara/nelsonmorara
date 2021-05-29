@@ -1,7 +1,7 @@
-- 👋 Hi, nelson here;
+- 👋 Hi, nelson morara here;
 - 👀 My interests are in Learning new knowledge and ideas every day.
-- 🌱 I’m currently learning  Data science, Machine learning and deep learning.
-- 💞️ I create value using data.
+- 🌱 Always curious to learn  Data science, Machine learning and AI.
+- 💞️ I create value using data and solve problems.
 - 📫 How to reach me:nelsonmorara@yahoo.com / http://linkedin.com/in/nelson-morara-72b52a20a
 
 <!---
